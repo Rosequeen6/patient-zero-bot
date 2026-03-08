@@ -1,0 +1,49 @@
+{
+  "players": {
+    "1234841073122152518": {
+      "infected": false,
+      "bites": 1,
+      "successfulInfections": 1,
+      "failedBites": 0,
+      "timesCured": 0,
+      "health": 100,
+      "hunger": 83,
+      "outbreaksSurvived": 0,
+      "outbreaksInfected": 0,
+      "inventory": {
+        "cure": 1,
+        "weapon": 2,
+        "protective-gear": 0,
+        "antivirus": 0,
+        "food": 3,
+        "medkit": 1,
+        "biohazard-suit": 1,
+        "mutation": 2,
+        "super-cure": 0,
+        "flamethrower": 0
+      },
+      "effects": {
+        "weaponBoost": false,
+        "protection": false,
+        "antivirusBoost": false,
+        "foodBoost": true,
+        "mutationBoost": false,
+        "biohazardSuitCharges": 0,
+        "flamethrowerCharges": 0
+      },
+      "huntsWon": 0,
+      "scavenges": 1,
+      "raidsJoined": 0,
+      "raidsWon": 0,
+      "dailyClaims": 1,
+      "lastDailyAt": 1772930181962
+    },
+    "439820161370030081": {
+      "infected": true,
+      "bites": 0,
+      "successfulInfections": 0,
+      "failedBites": 0,
+      "timesCured": 0
+    }
+  }
+}
